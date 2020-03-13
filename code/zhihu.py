@@ -5,7 +5,7 @@
 
 from pyspider.libs.base_handler import *
 import random
-import MySQLdb
+import pymysql
 
 
 class Handler(BaseHandler):
